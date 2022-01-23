@@ -1,4 +1,4 @@
-[![MasterHead](https://quotefancy.com/media/wallpaper/3840x2160/2000905-Satya-Nadella-Quote-This-is-a-software-powered-world.jpg)](https://Kanhaiya2206.github.io)
+[![MasterHead](https://www.canva.com/design/DAE2P6atpv0/EYhdgb9FKyXf-yayuxnOEw/view?utm_content=DAE2P6atpv0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://Kanhaiya2206.github.io)
 
 <h1 align="center">Hi 👋, I'm Kanhaiya</h1>
 <h3 align="center">A CSE Student who loves to write Code & Analyze Algo.</h3>
