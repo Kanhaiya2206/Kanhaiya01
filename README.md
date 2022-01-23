@@ -1,7 +1,10 @@
+[![MasterHead](https://quotefancy.com/media/wallpaper/3840x2160/2000905-Satya-Nadella-Quote-This-is-a-software-powered-world.jpg)](https://Kanhaiya2206.github.io)
+
 <h1 align="center">Hi 👋, I'm Kanhaiya</h1>
 <h3 align="center">A CSE Student who loves to write Code & Analyze Algo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanhaiya2206&label=Profile%20views&color=0e75b6&style=flat" alt="kanhaiya2206" /> </p>
+<img align="right" alt="Coding" width="400" src="https://decisionboundaries.com/wp-content/uploads/2020/01/The-Non-Use-of-Machine-Learning-Models.jpg">
 
 - 🌱 I’m currently learning **Web Development & DSA.**
 
